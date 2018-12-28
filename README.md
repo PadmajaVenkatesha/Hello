@@ -1,2 +1,3 @@
 # Hello
-First repo
+First repository  
+to learn about GIT
